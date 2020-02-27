@@ -1,2 +1,5 @@
 # HydroSphere
-Computes Water-Rich planetary bodies hydrosphere adiabatic profiles
+
+Computation of a water-rich planetary body adiabatic profile using SeaFreeze thermodynamics with Mass of water as an input
+
+Baptiste Journaux 2020
