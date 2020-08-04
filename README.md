@@ -6,7 +6,7 @@
 
 V0.7
 
-Computation of a water-rich planetary body adiabatic profile using SeaFreeze thermodynamics with Mass of water as an input
+Computation of a water-rich planetary body structure profile using SeaFreeze thermodynamics.
 
 Baptiste Journaux 2020
 
