@@ -8,8 +8,6 @@ V0.7
 
 Computation of a water-rich planetary body structure profile using SeaFreeze thermodynamics.
 
-Baptiste Journaux 2020
-
 ## Authors
 
 * **Baptiste Journaux** - *University of Washington, Earth and Space Sciences Department, Seattle, USA* 
@@ -20,7 +18,7 @@ Baptiste Journaux 2020
 
 This project is licensed under the MIT License :
 
-Copyright (c) 2019, B. Journaux
+Copyright (c) 2020, B. Journaux
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files, to deal
