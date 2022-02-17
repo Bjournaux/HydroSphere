@@ -4,15 +4,18 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/B_jour.svg?style=flat-square&logo=twitter&label=Follow)](https://twitter.com/B_jour)
 [![GitHub Follow](https://img.shields.io/github/followers/Bjournaux.svg?style=flat-square&logo=github&label=Follow)](https://github.com/Bjournaux)
 
-V0.7
 
 Computation of a water-rich planetary body structure profile using [SeaFreeze](seafreeze.org) thermodynamics.
 
-## Authors
+## Author
 
-* **Baptiste Journaux** - *University of Washington, Earth and Space Sciences Department, Seattle, USA* 
-* **Wei Dai** - *University of Washington, Earth and Space Sciences Department, Seattle, USA* 
-* **Rory Barnes** - *University of Washington, Earth and Space Sciences Department, Seattle, USA* 
+* **Baptiste Journaux** - *University of Washington, Earth and Space Sciences Department, Seattle, WA, USA* 
+
+## Contributors
+
+* **Karlee Tailor** - *Macalester College, Saint Paul, MN, USA*
+* **Wei Dai** - *University of Washington, Earth and Space Sciences Department, Seattle, WA, USA* 
+* **Rory Barnes** - *University of Washington, Earth and Space Sciences Department, Seattle, WA, USA* 
 
 ## License
 
