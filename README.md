@@ -13,6 +13,7 @@ Computation of a water-rich planetary body structure profile using [SeaFreeze](s
 
 ## Contributors
 
+* **Ula Jones** - *University of Washington, Earth and Space Sciences Department, Seattle, WA, USA* 
 * **Karlee Tailor** - *Macalester College, Saint Paul, MN, USA*
 * **Wei Dai** - *University of Washington, Earth and Space Sciences Department, Seattle, WA, USA* 
 * **Rory Barnes** - *University of Washington, Earth and Space Sciences Department, Seattle, WA, USA* 
